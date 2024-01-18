@@ -61,7 +61,7 @@ section#rsocial img{
 }
 
 section#rsocial img:hover{
-    border: 2px solid rgb(102, 95, 95);
+    border: 2px solid rgb(224, 1, 1);
     transform: translate(4px, -4px); /*move os icones para a direita (valor positivo) e topo (valor negativo)*/
     box-shadow: 5px 5px 10px rgba(0, 0, 0);
     transition: transform 0.5s; /*regula o movimento dos icones no hover*/
